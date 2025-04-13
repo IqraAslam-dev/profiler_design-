@@ -43,6 +43,7 @@
 </p>
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trinhminhtriet&bg_color=e9c9da&color=75006d&line=c007b4&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🧠 Currently Learning
 
@@ -365,6 +366,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trinhminhtriet&bg_color=121212&color=75006d&line=c007b4&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
