@@ -1,12 +1,182 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
-<br>
-<br> 
+<!-- HEADER IMAGE -->
+<img width="100%" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b" alt="Welcome Banner" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+IqraAslam;I'm+17+years+old;I'm+a+Software+Developer;I'm+from+Pakistan;welcome%3A+to+my+profiler)](https://git.io/typing-svg)
+<!-- INTRO ANIMATION -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F73D9F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Iqra+Aslam!;17+Years+Old+Developer+from+Pakistan;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</h1>
 
-<br>
-<br>
+---
 
+### 💫 About Me
+
+- 🌱 I’m currently learning **Java, Spring Boot, React**
+- 💻 Working with **Go** professionally
+- 🌍 Based in **Pakistan**
+- 🚀 Passionate about **tech, coding, and learning**
+- 📫 Reach me: [cmp.1a.caroline@gmail.com](mailto:cmp.1a.caroline@gmail.com)
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&theme=tokyonight&show_icons=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c" width="60" />
+  <img src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd" width="60" />
+  <img src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6" width="60" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/carol_developer" target="_blank">
+    <img src="https://img.shields.io/badge/@carol_developer-%23E1306C.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iqra-aslam-519986357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carolbarbosa101/carolbarbosa101/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://ko-fi.com/carolinebarbosa" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thank you for visiting 💖✨</p>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://i.imgur.com/yYv2N2U.jpg" alt="Driving into Code Banner"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4EBD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Iqra+Aslam+%F0%9F%91%8B;Coding+my+way+through+the+digital+highway...;Fasten+your+seatbelts!+%F0%9F%9A%97+;Let's+build+awesome+stuff+together!+%E2%9C%A8" alt="Typing intro"/>
+</h1>
+
+---
+
+### 🏎️ About Me
+
+- 🧑‍💻 17-year-old passionate software developer from Pakistan 🇵🇰  
+- 📚 Currently diving deep into **Java**, **React**, and **Go**  
+- 🛠️ Building side-projects like a pro racer on code tracks  
+- 🚦 Always ready for the next learning lap  
+- 📬 Reach me: [cmp.1a.caroline@gmail.com](mailto:cmp.1a.caroline@gmail.com)
+
+---
+
+### 🧰 My Toolbelt
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+</p>
+
+---
+
+### 🛣️ Currently Navigating Through:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Java-informational?style=flat&logo=java&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Exploring-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8" />
+  <img src="https://img.shields.io/badge/Practicing-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="45%" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iqra-aslam-519986357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/carol_developer" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:cmp.1a.caroline@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%230077B5.svg?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carolbarbosa101/carolbarbosa101/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://ko-fi.com/carolinebarbosa" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+  </a>
+</p>
+
+---
+
+<p align="center">Driven by curiosity. Fueled by coffee. Coding like a racer on the track. 🏁</p>
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
@@ -29,8 +199,8 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/iqra-aslam-519986357/?trk=opento_sprofile_topcard" target=_blank>
-<img align="center"  height="80" width="80" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAllBMVEUMZMX///8AYcQAWcFDf8nL3PIAWrzQ3vMAYcI0eclZjtAucslAgsz6/v3x9/sgbclOhM8AX8QAYsAAX70AV70AWMLm7vgAXb4sdsw5fsoRbsVmltK6z+iUt+AMZcGDrN3c6fNvnddiltWqwuPA0+r0+vyOrt+lweR9pduuyueUst9Lh81pldd1mtYdbcunxOXO4u7Z4fGRyVlRAAAEKUlEQVR4nO3ce1faMBzG8SblEpSCiUUuQrkMhsCc+v7f3Ko4KjW/yLY0WXOez9mf4Ml3vSW1NYoAAAAAAAAAAAAAAAAAAAAAAAAAAADgYiriIsqU72FURcapGnXHk5aMue+xVCCT6n56x960Z2OpMt8jsozz+Xve0Xqc+h6SXbKzYOeSfex7UBap+J591lThHI3awPxw5KGcVFUj0RayaRrI6UaUj8GTpfA9NivknApkvTC2YdwjC9lc+h6dBWpFB7JFCIXx1FDIRr6HZ0Fq2EkZewjgXNMnLhVH34a+x/fPeMdYOK3/gchvTIFsXf/ZKR+bC+u/DcW1cS/d1f84jFobU+H3ANYXadNU2PU9PAvkd0Ngz/forMgMhU/1P5Xm4h0ZmHQCOAzz68WEPNdsg9iE+ZH4QATeBTApPYqf9PvoKIh99E2qOxQ3jVvf47JHDT5fMl5GAQW+3tNvnF/4N3shwrhJc8Ljw/Q0Q13MJ4GcRc8IORjP99vZfpWlQe2gH3EZx7Gs/4IJAADqQ3DJX/+FM38vqHyKlA5Hhx+Pj49X43468P34CheEiz9Z+pTMlrvFaQ6YbNrblRpKf6vNbHRNKX2yT/kwSVd5XluzGGs//Ew9NfIGS/RYs3X2yUGzp7dpnMYu+zPql1mbp46f+XxeSCkVxrpt8+bmWJgJOTPeYP7m5QkWi4Wye0d94t3m3sNmtFao5OyLvle7zPnRaKlQCb6+IDBfXvddJ1oq5BH5WE7JXd/xwWilUKnJpYGM9a7dPk5mpfCWP18cmO+okdOtaKVwYHxm5ZP1wOWNPBuFneUfBTK2dHkzyEbhwfirco3NxOF+aqPw8rPMbzuHV34bhX+h4e6q6KnQ4ZM6ngrZyNlG9FXo7hfMvgp7zt7o8FXIDq52U2+FznbTKgovmgAsalq4mB0mQqjJYfvler98o6sWhevuYPh2C5jz4WD1ReMPR4soi4W91dmtXy7MK469o7mpvcLn8nRaSWPi9PzH/++FCXvW3LuXpoXxi6MllK1tqHtGLBMd0zccLYNtFR60W8T0wkqv7yTQVuGTfpfLuvRXkms3sxo7hQlx/yy7NayOO3Uq3MXExY148PFY6OZyYafwihqsXNJfGteoMCGXQoYfzxo1KmxSO2kkJvTLcXUq3BreraFnp3UqNLwT3aJPpnUqPNBjTV+CKDScFVv0t+pUaLiytegXq1BoCQoLKNRDYfVQWEChHgqrh8ICCvVQWD0UFlCoh8LqobCAQj0UVg+FBRTqobB6KCygUA+F1UNhAYV6KKweCgso1ENh9VBYQKEeCquHwkKAhe1SIf2UoaFwSP+/dB29FtTvUsbnH+Q3VxTDmxOq+zffskqJiOtFpZda+OV/M6uQKepLof0NWAAAAAAAAAAAAAAAAAAAAAAAAAAAgAr8Aj5RWY0PDbn2AAAAAElFTkSuQmCC">
+<a  href="https://www.linkedin.com/in/iqra-aslam-519986357/?trk=opento_sprofile_topcard" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/IqraAslam-dev">
 </a>
 
 </div>
@@ -44,21 +214,21 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/IqraAslam-dev">
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
-<img align="left" height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
-<img align="left"  height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
-<img align="left"  height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
-<img align="left"  height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
 
-<img align="left"  height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
-<img align="left"  height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
-<img align="left"  height="80" width="80" src="https://github.com/IqraAslam-dev">
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 </div>
 
