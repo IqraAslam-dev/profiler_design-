@@ -366,7 +366,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trinhminhtriet&bg_color=121212&color=75006d&line=c007b4&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
@@ -453,3 +453,5 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trinhminhtriet&bg_color=121212&color=75006d&line=c007b4&point=ff00bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
