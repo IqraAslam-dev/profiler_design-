@@ -91,7 +91,7 @@
 
 <p align="center">Thank you for visiting 💖✨</p>
 <!-- HEADER BANNER -->
-<img width="100%" src="https://i.imgur.com/yYv2N2U.jpg" alt="Driving into Code Banner"/>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF4EBD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Iqra+Aslam+%F0%9F%91%8B;Coding+my+way+through+the+digital+highway...;Fasten+your+seatbelts!+%F0%9F%9A%97+;Let's+build+awesome+stuff+together!+%E2%9C%A8" alt="Typing intro"/>
